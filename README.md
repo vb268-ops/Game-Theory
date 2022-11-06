@@ -2,7 +2,7 @@
 
 This repository has work done on Game Theory in different areas of application:
 
-1. Imitation Learning:
+1. Imitation Learning (IL):
   A program with a generator and discrimator playing a game to devise a policy that imitates single expert trajectory.
 
 2. Generative Adversarial Network (GAN):
