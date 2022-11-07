@@ -66,5 +66,4 @@ int main(){
     cout<<" Final Loss: "<<loss<<"\n";
 
     return 0; 
-
 }
